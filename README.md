@@ -2,3 +2,4 @@
 
 
  
+* [Wiring diagam and PCB](https://easyeda.com/hujer.roman/allsky) 
